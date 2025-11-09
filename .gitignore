@@ -1,1 +1,20 @@
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
 
+# Jupyter notebooks
+.ipynb_checkpoints/
+
+# Environment files (keep secrets safe)
+.env
+*.env
+.env.*
+api_keys.txt
+config.json
+secrets.json
+
+# System files
+.DS_Store
+Thumbs.db
