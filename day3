@@ -1,1 +1,10 @@
+# Day 3 – Context Engineering: Sessions & Memory
 
+**Goal:** Build agents that can remember past interactions and maintain context.  
+**Focus Topics:** Short-term vs. long-term memory, session management, and context persistence.  
+**Tasks:**  
+- [ ] Study the reading on memory mechanisms  
+- [ ] Explore the codelab for implementing memory  
+- [ ] Attend the livestream and take notes  
+
+🧩 Notes will be added after completing the session.
